@@ -1,0 +1,11 @@
+Vending Machine Java dipulihkan dari proyek NetBeans `vendingmachine`.
+Source asal berisi package vendingmachine, class Vendingmachine, dan TestVendingMachine.
+Tidak ada nama penulis atau lisensi menyeluruh yang tercantum pada source Java tersebut.
+
+Pemulihan mempertahankan alur terminal daftar produk, pilihan ID, uang, kembalian,
+batal, dan keluar. Struktur Maven, transaksi, validasi, data contoh, dan tes terisolasi
+ditambahkan saat pemulihan. Kredensial, hasil build, laporan coverage, dan konfigurasi
+IDE privat tidak disalin. Tes lama yang mengubah stok database asal tidak dijalankan.
+
+Dependency pihak ketiga mengikuti lisensi masing-masing; repo ini tidak memberikan
+lisensi menyeluruh baru atas source asal yang izinnya belum didokumentasikan.
