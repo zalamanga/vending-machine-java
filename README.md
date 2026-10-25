@@ -65,3 +65,7 @@ pom.xml                        Maven, Java 17, JAR dengan dependency runtime
 Dipulihkan dari proyek NetBeans `vendingmachine`, dengan mempertahankan format terminal daftar produk, pilihan ID, uang, batal, serta kembalian. Source awal mencetak sukses sebelum update stok dan tes lamanya mereset stok database langsung. Pemulihan memisahkan menu dari penyimpanan, menutup resource JDBC, memvalidasi masukan, serta membuat pembelian atomik.
 
 Lihat [NOTICE](NOTICE). Tidak ada kredensial, database asal, konfigurasi IDE privat, hasil build, atau laporan coverage lama dalam repo. Izin source asal belum terdokumentasi, sehingga repo tidak memberikan lisensi menyeluruh baru.
+
+## Alur kode
+
+[Diagram alur, tanggung jawab file, dan batas penyimpanan](docs/CODE_FLOW.md).
